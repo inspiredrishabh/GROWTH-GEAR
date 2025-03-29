@@ -1,6 +1,6 @@
 # Growth Gear Analytics
 
-![Growth Gear Analytics](https://via.placeholder.com/1200x630?text=Growth+Gear+Analytics)
+![Growth Gear Analytics]([https://via.placeholder.com/1200x630?text=Growth+Gear+Analytics](https://growthgear.in/wp-content/uploads/2023/09/Group-6-1024x108.png))
 
 ## Project Overview
 
