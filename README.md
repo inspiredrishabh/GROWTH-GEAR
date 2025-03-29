@@ -1,7 +1,5 @@
 # Growth Gear Analytics
 
-![Growth Gear Analytics]([https://via.placeholder.com/1200x630?text=Growth+Gear+Analytics](https://growthgear.in/wp-content/uploads/2023/09/Group-6-1024x108.png))
-
 ## Project Overview
 
 Growth Gear Analytics is a modern, React-based single-page application (SPA) that demonstrates a Gen AI-powered data analytics tool. The application allows users to enter natural language queries about business data and receive AI-generated insights with visualizations.
